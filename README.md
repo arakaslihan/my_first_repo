@@ -1,2 +1,3 @@
 # my_first_repo
-tesztrepó
+Ez egy teszt.
+Markdown. Harmadik sor. Teszt.
